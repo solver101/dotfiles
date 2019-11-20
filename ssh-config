@@ -1,0 +1,11 @@
+# UMich GitLab
+	Host gitlab
+	HostName gitlab.com
+	User git
+	IdentityFile ~/.ssh/mattkond
+
+# CAEN
+	Host mmd
+	HostName login.engin.umich.edu
+	User mattkond
+	Compression yes
